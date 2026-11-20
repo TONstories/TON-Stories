@@ -1,6 +1,6 @@
-# Tone Stories Audience
+# TON Stories Audience
 
-Tone Stories is relevant for teams that want Telegram-native visibility and faster campaign coordination.
+TON Stories is relevant for teams that want Telegram-native visibility and faster campaign coordination.
 
 ## Advertisers
 
@@ -26,4 +26,4 @@ Tone Stories is relevant for teams that want Telegram-native visibility and fast
 
 ## Search Intent
 
-People may discover Tone Stories when looking for Telegram Stories advertising, Telegram promotion, Telegram creator placements, or a marketplace for Telegram ad formats.
+People may discover TON Stories when looking for Telegram Stories advertising, Telegram promotion, Telegram creator placements, or a marketplace for Telegram ad formats.

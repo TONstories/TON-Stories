@@ -1,6 +1,6 @@
-# Tone Stories Concept
+# TON Stories Concept
 
-Tone Stories is a Telegram-native advertising product concept focused on Telegram Stories placements.
+TON Stories is a Telegram-native advertising product concept focused on Telegram Stories placements.
 
 The main idea is to reduce friction for advertisers who want to use Telegram Stories but do not want to coordinate every placement, creative step, status update, and publication detail manually.
 

@@ -1,10 +1,10 @@
-# Tone Stories
+# TON Stories
 
 [English](README.md)
 
 ![Руководство по первой кампании](banner.webp)
 
-Tone Stories помогает рекламодателям размещать рекламу в историях Telegram у авторов. Изучите сервис на сайте или откройте бота в Telegram. [Tone Stories](https://tonstories.com/?utm_source=github&utm_medium=referral&utm_campaign=open_source&utm_content=guide) · [Telegram](https://t.me/TON_Storiesbot?start=gh_guide)
+TON Stories помогает рекламодателям размещать рекламу в историях Telegram у авторов. Изучите сервис на сайте или откройте бота в Telegram. [TON Stories](https://tonstories.com/?utm_source=github&utm_medium=referral&utm_campaign=open_source&utm_content=guide) · [Telegram](https://t.me/TON_Storiesbot?start=gh_guide)
 
 ## Как подготовить первое размещение
 

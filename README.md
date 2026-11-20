@@ -1,10 +1,10 @@
-# Tone Stories
+# TON Stories
 
-![Tone Stories — advertising with Telegram creators](banner.webp)
+![TON Stories — advertising with Telegram creators](banner.webp)
 
-[Русский](README.ru.md) · [Visit Tone Stories](https://tonstories.com/?utm_source=github&utm_medium=referral&utm_campaign=open_source&utm_content=guide) · [Open the Telegram bot](https://t.me/TON_Storiesbot?start=gh_guide)
+[Русский](README.ru.md) · [Visit TON Stories](https://tonstories.com/?utm_source=github&utm_medium=referral&utm_campaign=open_source&utm_content=guide) · [Open the Telegram bot](https://t.me/TON_Storiesbot?start=gh_guide)
 
-Tone Stories connects advertisers with creators for advertising placements in Telegram Stories. A placement is a story that a creator shares with their audience. This guide follows one placement from the first brief through the results report. Use it to agree on the offer, prepare the media and decide what will count as a successful campaign.
+TON Stories connects advertisers with creators for advertising placements in Telegram Stories. A placement is a story that a creator shares with their audience. This guide follows one placement from the first brief through the results report. Use it to agree on the offer, prepare the media and decide what will count as a successful campaign.
 
 ## For advertisers
 
@@ -27,7 +27,7 @@ Before production, agree on the message, the destination, the review deadline an
 
 ## Prepare the files and links
 
-Run [Telegram Story Preflight](https://github.com/TONstories/telegram-story-preflight) on the delivery folder to catch incorrect image dimensions or incompatible video before upload. Export the placement sheet and run [Campaign Link Audit](https://github.com/TONstories/campaign-link-audit) to check campaign parameters. Both tools work locally and can be used independently of Tone Stories.
+Run [Telegram Story Preflight](https://github.com/TONstories/telegram-story-preflight) on the delivery folder to catch incorrect image dimensions or incompatible video before upload. Export the placement sheet and run [Campaign Link Audit](https://github.com/TONstories/campaign-link-audit) to check campaign parameters. Both tools work locally and can be used independently of TON Stories.
 
 ## Read the results
 
