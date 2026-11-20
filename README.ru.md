@@ -4,7 +4,7 @@
 
 ![Руководство по первой кампании](banner.webp)
 
-TON Stories помогает рекламодателям размещать рекламу в историях Telegram у авторов. Изучите сервис на сайте или откройте бота в Telegram. [TON Stories](https://tonstories.com/?utm_source=github&utm_medium=referral&utm_campaign=open_source&utm_content=guide) · [Telegram](https://t.me/TON_Storiesbot?start=gh_guide)
+TON Stories помогает рекламодателям размещать рекламу в историях Telegram у авторов. Изучите сервис на сайте или откройте бота в Telegram. [TON Stories](https://tonstories.com/?utm_source=github&utm_medium=referral&utm_campaign=open_source&utm_content=guide_ru) · [Telegram](https://t.me/TON_Storiesbot?start=gh_guide_ru)
 
 ## Как подготовить первое размещение
 

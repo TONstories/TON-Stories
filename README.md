@@ -35,4 +35,4 @@ Suppose a fictional placement costs 3,000 RUB and produces 120 attributed site v
 
 ## Where to begin
 
-Explore the service on the [website](https://tonstories.com/?utm_source=github&utm_medium=referral&utm_campaign=open_source&utm_content=guide_footer) or go directly to the [Telegram bot](https://t.me/TON_Storiesbot?start=gh_guide). The public materials here cover the campaign workflow and use fictional examples.
+Explore the service on the [website](https://tonstories.com/?utm_source=github&utm_medium=referral&utm_campaign=open_source&utm_content=guide_footer) or go directly to the [Telegram bot](https://t.me/TON_Storiesbot?start=gh_guide_footer). The public materials here cover the campaign workflow and use fictional examples.
