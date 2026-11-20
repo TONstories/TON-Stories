@@ -1,4 +1,4 @@
-# TON Stories Roadmap
+# Tone Stories Roadmap
 
 This public roadmap describes the product direction at a high level only.
 

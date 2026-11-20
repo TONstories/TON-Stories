@@ -1,23 +1,38 @@
-# Реклама в Telegram Stories у авторов
+# Tone Stories
 
-[English](README.en.md)
+![Tone Stories — advertising with Telegram creators](banner.webp)
 
-![Руководство по первой кампании](cover.png)
+[Русский](README.ru.md) · [Visit Tone Stories](https://tonstories.com/?utm_source=github&utm_medium=referral&utm_campaign=open_source&utm_content=guide) · [Open the Telegram bot](https://t.me/TON_Storiesbot?start=gh_guide)
 
-TON Stories помогает рекламодателям размещать рекламу в историях Telegram у авторов. Изучите сервис на сайте или откройте бота в Telegram. [TON Stories](https://tonstories.com/?utm_source=github&utm_medium=referral&utm_campaign=open_source&utm_content=guide) · [Telegram](https://t.me/TON_Storiesbot?start=gh_guide)
+Tone Stories connects advertisers with creators for advertising placements in Telegram Stories. A placement is a story that a creator shares with their audience. This guide follows one placement from the first brief through the results report. Use it to agree on the offer, prepare the media and decide what will count as a successful campaign.
 
-## Как подготовить первое размещение
+## For advertisers
 
-1. **Выберите действие зрителя.** Для интернет-магазина это может быть посещение карточки товара, для Telegram-сервиса — запуск бота. Измеряйте их отдельно.
-2. **Заполните [бриф](brief.md).** Укажите аудиторию, даты, бюджет, оффер, ссылку и критерий успеха. Согласуйте с автором формат и способ получения статистики.
-3. **Подготовьте креатив.** Покажите предложение на первом экране. Проверьте читаемость на телефоне, звук и адрес назначения. Для публикации через Bot API используйте [Story Preflight](https://github.com/TONstories/telegram-story-preflight).
-4. **Разделите источники.** Дайте каждому размещению собственную метку. До публикации проверьте таблицу через [Campaign Link Audit](https://github.com/TONstories/campaign-link-audit).
-5. **Сведите результаты.** Запишите время, просмотры, расходы, визиты и подтвержденные целевые действия за согласованный период.
+Start with one viewer action. A shop might want a visit to a product page; a Telegram service might want a confirmed bot start. Pick a creator whose audience matches the offer, agree on timing and cost, and supply a short brief. Give each placement a distinct tracking link so that results can be compared after the story goes live.
 
-## Пример расчета
+## For creators
 
-Вымышленное размещение стоило 3 000 ₽ и принесло 120 визитов и 12 подтвержденных запусков бота. Визит стоил 25 ₽, запуск — 250 ₽. Такой расчет требует отдельного измерения стартов в самом боте.
+Before production, agree on the message, the destination, the review deadline and the reporting window. Preview the creative at phone size. Open the destination and check that a viewer can complete the intended action. After publication, share the actual publication time and the agreed metrics.
 
-## Что согласовать автору
+## A brief you can copy
 
-До съемки уточните тезис, длительность, ссылку и срок согласования. После публикации передайте рекламодателю дату и согласованный отчет по размещению.
+| Decision | Example for a fictional placement |
+| --- | --- |
+| Audience | Independent Telegram channel editors |
+| Offer | A free editorial calendar |
+| Action | Visit the template page |
+| Creative | One vertical story with a legible headline and one destination |
+| Attribution | A separate link for this creator |
+| Measurement window | 48 hours after publication |
+
+## Prepare the files and links
+
+Run [Telegram Story Preflight](https://github.com/TONstories/telegram-story-preflight) on the delivery folder to catch incorrect image dimensions or incompatible video before upload. Export the placement sheet and run [Campaign Link Audit](https://github.com/TONstories/campaign-link-audit) to check campaign parameters. Both tools work locally and can be used independently of Tone Stories.
+
+## Read the results
+
+Suppose a fictional placement costs 3,000 RUB and produces 120 attributed site visits. Cost per visit is 25 RUB. If the bot separately records 12 attributed starts, cost per start is 250 RUB. Keep the observation window and event definition with each figure. A click on the bot link alone cannot establish that the viewer started the bot.
+
+## Where to begin
+
+Explore the service on the [website](https://tonstories.com/?utm_source=github&utm_medium=referral&utm_campaign=open_source&utm_content=guide_footer) or go directly to the [Telegram bot](https://t.me/TON_Storiesbot?start=gh_guide). The public materials here cover the campaign workflow and use fictional examples.

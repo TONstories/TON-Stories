@@ -10,4 +10,4 @@ If you believe this repository accidentally exposes sensitive information, open 
 
 ## Public Boundary
 
-The public materials are intentionally high-level. They are meant for product discovery and SEO, not for cloning or operating the real TON Stories system.
+The public materials are intentionally high-level. They are meant for product discovery and SEO, not for cloning or operating the real Tone Stories system.
